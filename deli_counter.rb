@@ -1,5 +1,5 @@
 # Write your code here.
-katz_feli = []
+katz_deli = []
 
 def line(katz_deli)
   line_positions = []
